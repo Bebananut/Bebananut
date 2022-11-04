@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bebananut
-- 👀 I’m interested in Backend, Clound Computing, Devops
+- 👀 I’m interested in Backend, Cloud Computing, Devops
 
 <!---
 Bebananut/Bebananut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
